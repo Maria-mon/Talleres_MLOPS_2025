@@ -1,3 +1,8 @@
+Nombres:
+Juan Felipe Foreri
+Andres David Gomez
+Maria del Mar Montenegro
+
 Para ejecutar en ducker:
 
 1. construir imagen:
