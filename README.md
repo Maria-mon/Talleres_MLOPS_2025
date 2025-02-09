@@ -1,5 +1,6 @@
 Nombres:
-Juan Felipe Foreri
+
+Juan Felipe Forero
 Andres David Gomez
 Maria del Mar Montenegro
 
